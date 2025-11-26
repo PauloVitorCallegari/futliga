@@ -1,4 +1,4 @@
-# CRUD Jogador - PostgreSQL
+# Futliga CRUD
 
 ## Como rodar
 
@@ -10,4 +10,5 @@
 
 3. Execute:
    python main.py
+
 
